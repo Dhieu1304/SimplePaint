@@ -1,4 +1,10 @@
 
+- [Project 2: Paint](#project-2-paint)
+  - [Description](#description)
+  - [Bonus](#bonus)
+  - [Expected grade](#expected-grade)
+  - [Link Video Demo](#link-video-demo)
+
 # Project 2: Paint
 
 Ứng dụng được lập trình trên: Visual Studio 2019
