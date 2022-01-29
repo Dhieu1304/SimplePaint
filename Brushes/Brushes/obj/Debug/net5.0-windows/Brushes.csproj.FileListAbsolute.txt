@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Windows\Other\Project2\Brushes\Brushes\bin\Debug\net5.0-windows\Brushes.deps.json
+C:\Users\USER\source\repos\Windows\Other\Project2\Brushes\Brushes\bin\Debug\net5.0-windows\Brushes.dll
+C:\Users\USER\source\repos\Windows\Other\Project2\Brushes\Brushes\bin\Debug\net5.0-windows\ref\Brushes.dll
+C:\Users\USER\source\repos\Windows\Other\Project2\Brushes\Brushes\bin\Debug\net5.0-windows\Brushes.pdb
+C:\Users\USER\source\repos\Windows\Other\Project2\Brushes\Brushes\bin\Debug\net5.0-windows\Contract.dll
+C:\Users\USER\source\repos\Windows\Other\Project2\Brushes\Brushes\bin\Debug\net5.0-windows\Contract.pdb
+C:\Users\USER\source\repos\Windows\Other\Project2\Brushes\Brushes\obj\Debug\net5.0-windows\Brushes.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Windows\Other\Project2\Brushes\Brushes\obj\Debug\net5.0-windows\Brushes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Windows\Other\Project2\Brushes\Brushes\obj\Debug\net5.0-windows\Brushes.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project2\Brushes\Brushes\obj\Debug\net5.0-windows\Brushes.AssemblyInfo.cs
+C:\Users\USER\source\repos\Windows\Other\Project2\Brushes\Brushes\obj\Debug\net5.0-windows\Brushes.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project2\Brushes\Brushes\obj\Debug\net5.0-windows\Brushes.csproj.CopyComplete
+C:\Users\USER\source\repos\Windows\Other\Project2\Brushes\Brushes\obj\Debug\net5.0-windows\Brushes.dll
+C:\Users\USER\source\repos\Windows\Other\Project2\Brushes\Brushes\obj\Debug\net5.0-windows\ref\Brushes.dll
+C:\Users\USER\source\repos\Windows\Other\Project2\Brushes\Brushes\obj\Debug\net5.0-windows\Brushes.pdb

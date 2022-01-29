@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Windows\Other\Project2\Image2D\Image2D\bin\Debug\net5.0-windows\Image2D.deps.json
+C:\Users\USER\source\repos\Windows\Other\Project2\Image2D\Image2D\bin\Debug\net5.0-windows\Image2D.dll
+C:\Users\USER\source\repos\Windows\Other\Project2\Image2D\Image2D\bin\Debug\net5.0-windows\ref\Image2D.dll
+C:\Users\USER\source\repos\Windows\Other\Project2\Image2D\Image2D\bin\Debug\net5.0-windows\Image2D.pdb
+C:\Users\USER\source\repos\Windows\Other\Project2\Image2D\Image2D\bin\Debug\net5.0-windows\Contract.dll
+C:\Users\USER\source\repos\Windows\Other\Project2\Image2D\Image2D\bin\Debug\net5.0-windows\Contract.pdb
+C:\Users\USER\source\repos\Windows\Other\Project2\Image2D\Image2D\obj\Debug\net5.0-windows\Image2D.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Windows\Other\Project2\Image2D\Image2D\obj\Debug\net5.0-windows\Image2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Windows\Other\Project2\Image2D\Image2D\obj\Debug\net5.0-windows\Image2D.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project2\Image2D\Image2D\obj\Debug\net5.0-windows\Image2D.AssemblyInfo.cs
+C:\Users\USER\source\repos\Windows\Other\Project2\Image2D\Image2D\obj\Debug\net5.0-windows\Image2D.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project2\Image2D\Image2D\obj\Debug\net5.0-windows\Image2D.csproj.CopyComplete
+C:\Users\USER\source\repos\Windows\Other\Project2\Image2D\Image2D\obj\Debug\net5.0-windows\Image2D.dll
+C:\Users\USER\source\repos\Windows\Other\Project2\Image2D\Image2D\obj\Debug\net5.0-windows\ref\Image2D.dll
+C:\Users\USER\source\repos\Windows\Other\Project2\Image2D\Image2D\obj\Debug\net5.0-windows\Image2D.pdb

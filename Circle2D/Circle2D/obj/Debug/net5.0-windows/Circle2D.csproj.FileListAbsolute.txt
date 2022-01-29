@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Windows\Other\Project2\Circle2D\Circle2D\bin\Debug\net5.0-windows\Circle2D.deps.json
+C:\Users\USER\source\repos\Windows\Other\Project2\Circle2D\Circle2D\bin\Debug\net5.0-windows\Circle2D.dll
+C:\Users\USER\source\repos\Windows\Other\Project2\Circle2D\Circle2D\bin\Debug\net5.0-windows\ref\Circle2D.dll
+C:\Users\USER\source\repos\Windows\Other\Project2\Circle2D\Circle2D\bin\Debug\net5.0-windows\Circle2D.pdb
+C:\Users\USER\source\repos\Windows\Other\Project2\Circle2D\Circle2D\bin\Debug\net5.0-windows\Contract.dll
+C:\Users\USER\source\repos\Windows\Other\Project2\Circle2D\Circle2D\bin\Debug\net5.0-windows\Contract.pdb
+C:\Users\USER\source\repos\Windows\Other\Project2\Circle2D\Circle2D\obj\Debug\net5.0-windows\Circle2D.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Windows\Other\Project2\Circle2D\Circle2D\obj\Debug\net5.0-windows\Circle2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Windows\Other\Project2\Circle2D\Circle2D\obj\Debug\net5.0-windows\Circle2D.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project2\Circle2D\Circle2D\obj\Debug\net5.0-windows\Circle2D.AssemblyInfo.cs
+C:\Users\USER\source\repos\Windows\Other\Project2\Circle2D\Circle2D\obj\Debug\net5.0-windows\Circle2D.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project2\Circle2D\Circle2D\obj\Debug\net5.0-windows\Circle2D.csproj.CopyComplete
+C:\Users\USER\source\repos\Windows\Other\Project2\Circle2D\Circle2D\obj\Debug\net5.0-windows\Circle2D.dll
+C:\Users\USER\source\repos\Windows\Other\Project2\Circle2D\Circle2D\obj\Debug\net5.0-windows\ref\Circle2D.dll
+C:\Users\USER\source\repos\Windows\Other\Project2\Circle2D\Circle2D\obj\Debug\net5.0-windows\Circle2D.pdb

@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Windows\Other\Project2\Eraser\Eraser\bin\Debug\net5.0-windows\Eraser.deps.json
+C:\Users\USER\source\repos\Windows\Other\Project2\Eraser\Eraser\bin\Debug\net5.0-windows\Eraser.dll
+C:\Users\USER\source\repos\Windows\Other\Project2\Eraser\Eraser\bin\Debug\net5.0-windows\ref\Eraser.dll
+C:\Users\USER\source\repos\Windows\Other\Project2\Eraser\Eraser\bin\Debug\net5.0-windows\Eraser.pdb
+C:\Users\USER\source\repos\Windows\Other\Project2\Eraser\Eraser\bin\Debug\net5.0-windows\Contract.dll
+C:\Users\USER\source\repos\Windows\Other\Project2\Eraser\Eraser\bin\Debug\net5.0-windows\Contract.pdb
+C:\Users\USER\source\repos\Windows\Other\Project2\Eraser\Eraser\obj\Debug\net5.0-windows\Eraser.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Windows\Other\Project2\Eraser\Eraser\obj\Debug\net5.0-windows\Eraser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Windows\Other\Project2\Eraser\Eraser\obj\Debug\net5.0-windows\Eraser.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project2\Eraser\Eraser\obj\Debug\net5.0-windows\Eraser.AssemblyInfo.cs
+C:\Users\USER\source\repos\Windows\Other\Project2\Eraser\Eraser\obj\Debug\net5.0-windows\Eraser.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project2\Eraser\Eraser\obj\Debug\net5.0-windows\Eraser.csproj.CopyComplete
+C:\Users\USER\source\repos\Windows\Other\Project2\Eraser\Eraser\obj\Debug\net5.0-windows\Eraser.dll
+C:\Users\USER\source\repos\Windows\Other\Project2\Eraser\Eraser\obj\Debug\net5.0-windows\ref\Eraser.dll
+C:\Users\USER\source\repos\Windows\Other\Project2\Eraser\Eraser\obj\Debug\net5.0-windows\Eraser.pdb

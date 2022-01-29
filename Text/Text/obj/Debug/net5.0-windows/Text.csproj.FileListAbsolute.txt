@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Windows\Other\Project2\Text\Text\bin\Debug\net5.0-windows\Text.deps.json
+C:\Users\USER\source\repos\Windows\Other\Project2\Text\Text\bin\Debug\net5.0-windows\Text.dll
+C:\Users\USER\source\repos\Windows\Other\Project2\Text\Text\bin\Debug\net5.0-windows\ref\Text.dll
+C:\Users\USER\source\repos\Windows\Other\Project2\Text\Text\bin\Debug\net5.0-windows\Text.pdb
+C:\Users\USER\source\repos\Windows\Other\Project2\Text\Text\bin\Debug\net5.0-windows\Contract.dll
+C:\Users\USER\source\repos\Windows\Other\Project2\Text\Text\bin\Debug\net5.0-windows\Contract.pdb
+C:\Users\USER\source\repos\Windows\Other\Project2\Text\Text\obj\Debug\net5.0-windows\Text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Windows\Other\Project2\Text\Text\obj\Debug\net5.0-windows\Text.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project2\Text\Text\obj\Debug\net5.0-windows\Text.AssemblyInfo.cs
+C:\Users\USER\source\repos\Windows\Other\Project2\Text\Text\obj\Debug\net5.0-windows\Text.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Windows\Other\Project2\Text\Text\obj\Debug\net5.0-windows\Text.csproj.CopyComplete
+C:\Users\USER\source\repos\Windows\Other\Project2\Text\Text\obj\Debug\net5.0-windows\Text.dll
+C:\Users\USER\source\repos\Windows\Other\Project2\Text\Text\obj\Debug\net5.0-windows\ref\Text.dll
+C:\Users\USER\source\repos\Windows\Other\Project2\Text\Text\obj\Debug\net5.0-windows\Text.pdb
+C:\Users\USER\source\repos\Windows\Other\Project2\Text\Text\obj\Debug\net5.0-windows\Text.csproj.AssemblyReference.cache
