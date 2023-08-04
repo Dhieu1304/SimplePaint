@@ -38,11 +38,6 @@ Hoàn thành cơ bản các yêu cầu của đồ án:
 - Đối với text thì có thể chọn kiểu chữ (in đậm, nghiên, gạch chân), cỡ chữ, phông chữ, màu chữ (sau khi nhập text, ấn Enter để lưu; esc để hủy)
 - Undo, Redo (bằng các nút trên giao diện hoặc Ctrl-Z để Undo, Ctrl-Y để Redo)
 
-## Expected grade
-
-10
-
 ## Link Video Demo
 
 [Link Video Demo Project2: Paint](https://www.youtube.com/watch?v=TzAZntQ5DbE)
-  
